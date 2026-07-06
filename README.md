@@ -9,6 +9,7 @@
 
 虚拟机镜像已上传至网盘，请使用以下链接下载：
 
+
 通过网盘分享的文件：ubuntu22.04
 链接: https://pan.baidu.com/s/1zqJ6zh37sk6GthjQJTepdA 提取码: niqc 
 --来自百度网盘超级会员v2的分享
